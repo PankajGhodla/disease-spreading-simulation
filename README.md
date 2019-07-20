@@ -1,6 +1,6 @@
 # Disease Spreading Simulation
 
-This a disease spreadign simulation. If a imfected person(non black dot) hits a healthy person (black dot) then the healthy person gets infected.
+This is a disease spreading simulation. If a infected person(non black dot) hits a healthy person (black dot) then the healthy person gets infected.
 This is a very simple simulation.
 
 When the program is run it looks like: <br/>
