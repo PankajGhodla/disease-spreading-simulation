@@ -3,11 +3,11 @@
 This a disease spreadign simulation. If a imfected person(non black dot) hits a healthy person (black dot) then the healthy person gets infected.
 This is a very simple simulation.
 
-When the program is run it looks like:  <img src="" width="400px">
+When the program is run it looks like:  <img src="https://github.com/PankajGhodla/disease-spreading-simulation/blob/master/Initial%20Image.png" width="400px">
 Press "space bar" key on the keyboard to start the simulation.
-<img src="" width="400px">
+<img src="https://github.com/PankajGhodla/disease-spreading-simulation/blob/master/Intermediate.png" width="400px">
 Now, press the "x" key on the keyborad to infect a random person in the simulation world. 
-<img src="" width="400px">
+<img src="https://github.com/PankajGhodla/disease-spreading-simulation/blob/master/Final.png" width="400px">
 
 
 
